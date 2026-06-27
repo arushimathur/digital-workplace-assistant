@@ -1,0 +1,22 @@
+IT Security Policy - American Express Digital Workplace
+
+1. Password Policy
+All employees must use passwords with a minimum of 12 characters, including uppercase, lowercase, numbers, and special characters. Passwords must be changed every 90 days. Multi-factor authentication (MFA) is mandatory for all corporate systems.
+
+2. Device Policy
+All company laptops must have full-disk encryption enabled. Employees must lock their screen when stepping away from their workstation. Personal devices accessing corporate email must be enrolled in Mobile Device Management (MDM).
+
+3. Software Installation
+Only approved software from the corporate app store may be installed on company devices. Employees must not install unauthorized software or browser extensions. All software must be kept up to date with the latest security patches.
+
+4. Data Handling
+Confidential data must never be stored on personal devices or unauthorized cloud storage. All sensitive documents must be stored in approved enterprise platforms (SharePoint, OneDrive). Sharing confidential data via personal email is strictly prohibited.
+
+5. Incident Reporting
+Any suspected security breach, phishing attempt, or data loss must be reported to the IT Security team within 1 hour via the ServiceNow portal or by calling the IT helpdesk at extension 5000.
+
+6. Remote Work Policy
+Employees working remotely must connect via the corporate VPN. Public Wi-Fi usage requires VPN. Home routers must use WPA2 or WPA3 encryption.
+
+7. Access Management
+Access to systems is granted on a least-privilege basis. Access requests must be approved by the employee's manager and submitted via the IT portal. Access is revoked within 24 hours of an employee's last working day.
