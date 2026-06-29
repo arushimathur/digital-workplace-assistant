@@ -114,3 +114,9 @@ This project uses **RAG** rather than fine-tuning because:
 - "If I get 20 leave days per year, how many is that per month?"
 - "What should I do if I find a phishing email, and how quickly must I report it?"
 - "How many sick days do I get, and what's that as a percentage of working days in a year?"
+
+--------------------
+
+
+
+

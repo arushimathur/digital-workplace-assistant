@@ -1,0 +1,26 @@
+Learning & Development Policy - American Express Digital Workplace
+
+1. L&D Budget
+Every employee receives an annual Learning & Development budget of $2,000. This resets on January 1 each year and cannot be carried forward. The budget covers online courses, certifications, books, conferences, and workshops.
+
+2. Approved Platforms
+Employees have free unlimited access to:
+  - LinkedIn Learning (available via SSO)
+  - Coursera for Business (select courses)
+  - AmEx Internal Academy (company-specific training)
+  - O'Reilly Learning (technical books and courses)
+
+3. Certification Reimbursement
+Certifications from AWS, GCP, Azure, Salesforce, PMP, and other approved vendors are fully reimbursable from the L&D budget. Certification exam fees and prep materials are covered. Employees who leave within 12 months of reimbursement may be required to repay the cost.
+
+4. Conference Attendance
+Employees may request to attend external conferences using their L&D budget. All conference attendance requires manager and HRBP approval. Travel and accommodation for conferences are covered under the travel expense policy separately.
+
+5. Internal Training Programs
+HR runs quarterly soft-skills workshops on topics like leadership, communication, and inclusive practices. Engineering teams run bi-weekly Tech Talks open to all employees. Mentorship programs are available — employees can apply via the HR portal in February and August.
+
+6. Manager Approval Process
+All L&D requests above $500 require manager approval in the Learning portal. Requests should be submitted at least 2 weeks before the course start date. Approved requests are reimbursed after completion and submission of a receipt.
+
+7. Career Development Plans
+Every employee should have a Career Development Plan (CDP) set in Workday. CDPs are reviewed during mid-year and year-end performance reviews. Managers are responsible for supporting employees in identifying growth opportunities aligned with business needs.

@@ -1,0 +1,33 @@
+IT Helpdesk and Support Policy - American Express Digital Workplace
+
+1. Helpdesk Contact
+The IT Helpdesk is available 24/7 for critical issues. Contact options:
+  - Phone: Extension 5000 (internal) or +1-800-555-0199 (external)
+  - Portal: ServiceNow at ithelp.amex.internal
+  - Chat: Available in the AmEx Workplace app (9am–6pm local time)
+  - Email: ithelpdesk@aexp.com (non-urgent issues only)
+
+2. Ticket Priority Levels
+  - P1 (Critical): System outage affecting multiple users. Response within 15 minutes. Resolution target: 4 hours.
+  - P2 (High): Individual cannot work due to technical issue. Response within 1 hour. Resolution target: 8 hours.
+  - P3 (Medium): Degraded functionality, workaround available. Response within 4 hours. Resolution target: 2 business days.
+  - P4 (Low): General questions, access requests, software installs. Response within 1 business day.
+
+3. Self-Service Portal
+Common issues can be resolved via the IT Self-Service portal:
+  - Password reset (no ticket needed — use SSPR portal)
+  - Software installation from the approved app catalog
+  - VPN setup and configuration
+  - Laptop lock/unlock and remote wipe for lost devices
+
+4. Hardware Requests
+New or replacement hardware must be requested via ServiceNow with manager approval. Standard laptops are provisioned within 3 business days. Peripherals (monitors, keyboards, docking stations) are available from the IT storeroom — no ticket required for standard items.
+
+5. Software Requests
+All software not in the corporate app catalog must go through an approval process. Submit a ServiceNow request with business justification and vendor security questionnaire. Security review takes 5–10 business days. Approved software is added to the app catalog for future users.
+
+6. Data Recovery
+Accidental file deletions can be recovered from OneDrive version history (up to 93 days). For files on network drives, contact the helpdesk for backup restoration. Recovery requests must be submitted within 30 days of the deletion event.
+
+7. Escalation
+If an issue is not resolved within the target time, employees can escalate by replying to the ticket with "ESCALATE" or by contacting their manager to flag the ticket. IT Management reviews all SLA breaches weekly.

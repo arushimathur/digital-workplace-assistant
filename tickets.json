@@ -1,0 +1,34 @@
+[
+  {
+    "ticket_id": "INC-EC1033F0",
+    "issue": "My laptop screen is broken",
+    "status": "Open",
+    "priority": "P3",
+    "raised_at": "2026-06-29 23:24:21",
+    "assigned_to": "IT Helpdesk Team"
+  },
+  {
+    "ticket_id": "INC-F9CB8D9A",
+    "issue": "'My VPN is not connecting'",
+    "status": "Open",
+    "priority": "P3",
+    "raised_at": "2026-06-29 23:29:03",
+    "assigned_to": "IT Helpdesk Team"
+  },
+  {
+    "ticket_id": "INC-B5E08835",
+    "issue": "'My Email Account is not working'",
+    "status": "Open",
+    "priority": "P3",
+    "raised_at": "2026-06-30 00:17:11",
+    "assigned_to": "IT Helpdesk Team"
+  },
+  {
+    "ticket_id": "INC-6A5D2724",
+    "issue": "'My Email Account is not working'",
+    "status": "Open",
+    "priority": "P3",
+    "raised_at": "2026-06-30 00:17:31",
+    "assigned_to": "IT Helpdesk Team"
+  }
+]

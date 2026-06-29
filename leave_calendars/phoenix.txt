@@ -1,0 +1,32 @@
+Leave Calendar 2026 - American Express Office, Phoenix, Arizona, USA
+
+City: Phoenix
+State: Arizona
+Country: United States of America
+Office Location: 20022 N 31st Ave, Phoenix, AZ 85027
+
+Public Holidays 2026 (Federal + Arizona State):
+
+1.  January 1   - New Year's Day
+2.  January 19  - Martin Luther King Jr. Day
+3.  February 16 - Presidents' Day (Washington's Birthday)
+4.  May 25      - Memorial Day
+5.  June 19     - Juneteenth National Independence Day
+6.  July 4      - Independence Day
+7.  September 7 - Labor Day
+8.  October 12  - Columbus Day
+9.  November 11 - Veterans Day
+10. November 26 - Thanksgiving Day
+11. November 27 - Day after Thanksgiving (Arizona observance)
+12. December 25 - Christmas Day
+
+Total Public Holidays: 12 days
+
+Important Note - Daylight Saving Time: Arizona does NOT observe Daylight Saving Time. Phoenix remains on Mountain Standard Time (MST / UTC-7) year-round. Employees in Phoenix should be aware of this when scheduling cross-location calls with Dallas, New York, or Bangalore teams.
+
+Optional Floating Holidays: Employees in Phoenix receive 2 floating holidays per year. These must be requested in Workday with manager approval.
+
+Office Working Hours: 8:00 AM - 5:00 PM MST (Monday to Friday)
+Weekend: Saturday and Sunday are non-working days.
+
+Note: All employees in Phoenix are entitled to 20 days of paid annual leave in addition to public holidays. Arizona Earned Paid Sick Time law provides a minimum of 40 hours paid sick leave per year for companies with 15+ employees.

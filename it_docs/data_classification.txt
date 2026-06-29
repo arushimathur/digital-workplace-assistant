@@ -1,0 +1,30 @@
+Data Classification and Handling Policy - American Express Digital Workplace
+
+1. Data Classification Levels
+All company data must be classified into one of four categories:
+  - Public: Information approved for external sharing (press releases, public website content).
+  - Internal: General business information for employee use only (internal announcements, process docs).
+  - Confidential: Sensitive business data with restricted access (employee records, financial reports, customer data).
+  - Restricted: Highly sensitive data with strict access controls (PII, PCI data, trade secrets, security keys).
+
+2. Handling Public Data
+Public data may be shared externally via approved channels. All public communications must be reviewed by the Communications team before release. Employees must not post internal branding or unreleased product information on public channels.
+
+3. Handling Internal Data
+Internal data must not be shared with external parties without manager approval. Internal documents should be stored in SharePoint or OneDrive with appropriate permissions. Sharing internal documents via personal email is not permitted.
+
+4. Handling Confidential Data
+Confidential data must be encrypted at rest and in transit. Access is granted on a need-to-know basis and must be approved by the data owner. Confidential data must not be stored on USB drives, personal devices, or unauthorized cloud services. Printing confidential documents requires manager approval.
+
+5. Handling Restricted Data
+Restricted data requires the highest level of protection. Access requires dual approval (manager + Security team). All access to restricted data is logged and audited. Restricted data must never leave the corporate network. Any suspected breach of restricted data must be reported immediately to the Security Operations Center (SOC).
+
+6. Data Retention
+Data retention periods vary by type:
+  - Employee records: 7 years after employment ends
+  - Financial records: 10 years
+  - Email: 3 years (auto-archived after 1 year)
+  - Customer data: Per regulatory requirements (minimum 5 years for card transactions)
+
+7. Data Disposal
+Physical documents containing confidential or restricted data must be cross-shredded. Digital data must be securely deleted using approved tools (not simply moved to Trash). Hard drives from decommissioned laptops are physically destroyed by the IT team — employees must not dispose of company hardware independently.

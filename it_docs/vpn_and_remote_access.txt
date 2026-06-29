@@ -1,0 +1,24 @@
+VPN and Remote Access Policy - American Express Digital Workplace
+
+1. VPN Requirement
+All employees accessing corporate systems from outside the office must connect via the AmEx corporate VPN (Cisco AnyConnect). VPN usage is mandatory for accessing internal tools, code repositories, databases, and email from remote locations.
+
+2. VPN Setup
+The VPN client (Cisco AnyConnect) is pre-installed on all company laptops. Employees must authenticate using their corporate credentials and an MFA token via the Authenticator app. VPN setup instructions are available in the IT portal under "Remote Access."
+
+3. Public Wi-Fi
+Use of public Wi-Fi (airports, cafes, hotels) is permitted only when connected to the corporate VPN. Employees must never access sensitive systems on public Wi-Fi without VPN. Mobile hotspot from a personal phone is preferred over public Wi-Fi when VPN is unavailable.
+
+4. Home Network Requirements
+Home routers must use WPA2 or WPA3 encryption. WEP encryption is not permitted. Employees should ensure their home router firmware is up to date. IT Security may audit remote device compliance periodically.
+
+5. Split Tunneling
+Split tunneling is disabled on the corporate VPN. All internet traffic routes through the corporate network while connected to VPN. This ensures consistent security policies and content filtering apply regardless of location.
+
+6. VPN Access Tiers
+  - Standard Access: Available to all employees, covers email, Slack, SharePoint, Workday.
+  - Elevated Access: Required for production database access or DevOps tools. Requires manager and IT Security approval.
+  - Third-Party Access: Contractors and vendors receive time-limited VPN credentials valid for the project duration only.
+
+7. Troubleshooting
+VPN issues should be reported to the IT Helpdesk via ServiceNow or by calling extension 5000. Common issues (certificate errors, connection drops) are documented in the IT Knowledge Base. Response time for VPN issues is within 2 hours during business hours.

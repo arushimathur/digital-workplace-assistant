@@ -1,0 +1,22 @@
+Payroll & Compensation Policy - American Express Digital Workplace
+
+1. Pay Schedule
+Employees are paid on a bi-weekly basis. Pay dates fall on alternate Fridays. Salary is deposited directly into the bank account registered in Workday. Pay stubs are available in the Workday portal under "Pay" within 24 hours of each pay date.
+
+2. Salary Reviews
+Annual salary reviews are conducted in January following year-end performance ratings. Merit increases are based on performance rating and market benchmarking. Employees rated 3 or above are eligible for a merit increase. The average merit increase budget is 4% of base salary.
+
+3. Bonus Structure
+Performance bonuses are paid in March for the previous year. Eligibility requires a rating of 4 or above and continuous employment through the bonus payment date. Bonus amounts range from 5% to 20% of base salary depending on the rating and role level.
+
+4. Overtime Policy
+Non-exempt employees are eligible for overtime pay at 1.5x their hourly rate for hours worked beyond 40 per week. All overtime must be pre-approved by a manager. Exempt employees are not eligible for overtime pay.
+
+5. Expense Reimbursement
+Work-related expenses must be submitted within 30 days via the Concur expense portal. Receipts are required for any expense above $25. Approved expenses are reimbursed within the next pay cycle. Travel expenses require manager pre-approval.
+
+6. Stock Options and RSUs
+Senior employees (Level 5 and above) are eligible for Restricted Stock Units (RSUs). RSUs vest over a 4-year period with a 1-year cliff. RSU grants are reviewed annually and communicated during the performance review cycle.
+
+7. Tax and Deductions
+Federal, state, and local taxes are withheld per W-4 elections submitted in Workday. Pre-tax deductions include health insurance premiums, FSA, and 401(k) contributions. W-2 forms are available in Workday by January 31 each year.

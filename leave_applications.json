@@ -1,0 +1,14 @@
+[
+  {
+    "application_id": "LV-0FF2EA9E",
+    "employee_name": "Arushi",
+    "leave_type": "Annual Leave",
+    "city": "Bangalore",
+    "start_date": "2026-06-30",
+    "end_date": "2026-07-08",
+    "num_days": 9,
+    "reason": "Personal reason",
+    "status": "Pending",
+    "applied_at": "2026-06-30 00:22:10"
+  }
+]
